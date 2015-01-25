@@ -1,0 +1,1 @@
+javac fa/automata/Automaton.java
